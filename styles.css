@@ -1,17 +1,18 @@
 body {
   background-color: lightslategray;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.assignment {
+  display:flex;
+  margin:10px;
+  padding:10px;
+  background-color: indigo;
+}
+.assignment img {
+  width: 200px;
+  padding: 10px;
 }
 h1 {
   color: deeppink;
   text-align: center;
-}
-.assign {
-  margin: 10px;
-  padding: 10px;
-  background-color: indigo;
-  display: flex;
-}
-.assign img {
-  width: 200px;
-  padding: 10px;
 }
